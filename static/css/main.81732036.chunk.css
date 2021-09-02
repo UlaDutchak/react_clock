@@ -1,0 +1,2 @@
+.clock{display:flex;flex-direction:column;justify-content:center;align-items:center}.clock__name{font-weight:700}.clock__name,.clock__watch{text-transform:uppercase}.App{font-family:Arial,Helvetica,sans-serif}.App__button{display:flex;flex-direction:row;justify-content:center;align-items:center;margin:20px}.App__button-hide,.App__button-name,.App__button-show{width:100px;height:50px;margin-left:15px}.App__button:last-child{margin-top:15px}
+/*# sourceMappingURL=main.81732036.chunk.css.map */
